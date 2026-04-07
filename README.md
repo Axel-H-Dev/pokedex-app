@@ -5,7 +5,7 @@
 Aplicación que consume una API de Pokémon para mostrar información detallada de cada personaje.
 
 ## 🚀 Tecnologías
-- Java / Python (según uses)
+- Dart
 - API REST
 
 ## ⚙️ Funcionalidades
